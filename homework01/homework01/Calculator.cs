@@ -13,6 +13,6 @@
 		public float Diffrence() => _value1 - _value2;
 		public float Product() => _value1 * _value2;
 		public float Quotient() => _value2 != 0 ? _value1 / _value2 : float.NaN;
-    }
+	}
 }
 
