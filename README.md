@@ -1,2 +1,2 @@
 # Programming in the C# language
-Repository for the C# programming language course from Hillel Online School
+This repository was created to attach homework assignments from the C# Pro course by Hillel Online School.
