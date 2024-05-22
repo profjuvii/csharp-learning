@@ -10,20 +10,20 @@ namespace homework02.Task3
 			Number = number;
 		}
 
-        public string ToBinary()
-        {
-            return Convert.ToString(Number, 2);
-        }
+		public string ToBinary()
+		{
+			return Convert.ToString(Number, 2);
+		}
 
-        public string ToOctal()
-        {
-            return Convert.ToString(Number, 8);
-        }
+		public string ToOctal()
+		{
+			return Convert.ToString(Number, 8);
+		}
 
-        public string ToHexadecimal()
-        {
-            return Convert.ToString(Number, 16);
-        }
-    }
+		public string ToHexadecimal()
+		{
+			return Convert.ToString(Number, 16);
+		}
+	}
 }
 

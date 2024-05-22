@@ -7,22 +7,22 @@ namespace homework02.Task2
 		{
 		}
 
-        public override void Sound() => Console.WriteLine("Violin sound...");
+		public override void Sound() => Console.WriteLine("Violin sound...");
 
-        public override void Show()
-        {
-            base.Show();
-        }
+		public override void Show()
+		{
+			base.Show();
+		}
 
-        public override void Desc()
-        {
-            base.Desc();
-        }
+		public override void Desc()
+		{
+			base.Desc();
+		}
 
-        public override void History()
-        {
-            base.History();
-        }
-    }
+		public override void History()
+		{
+			base.History();
+		}
+	}
 }
 
