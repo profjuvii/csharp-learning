@@ -1,0 +1,15 @@
+/Users/profjuvi/csharp-learning/homework02/homework02/bin/Debug/net7.0/homework02
+/Users/profjuvi/csharp-learning/homework02/homework02/bin/Debug/net7.0/homework02.deps.json
+/Users/profjuvi/csharp-learning/homework02/homework02/bin/Debug/net7.0/homework02.runtimeconfig.json
+/Users/profjuvi/csharp-learning/homework02/homework02/bin/Debug/net7.0/homework02.dll
+/Users/profjuvi/csharp-learning/homework02/homework02/bin/Debug/net7.0/homework02.pdb
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.csproj.AssemblyReference.cache
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.AssemblyInfoInputs.cache
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.AssemblyInfo.cs
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.csproj.CoreCompileInputs.cache
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.dll
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/refint/homework02.dll
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.pdb
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/homework02.genruntimeconfig.cache
+/Users/profjuvi/csharp-learning/homework02/homework02/obj/Debug/net7.0/ref/homework02.dll
